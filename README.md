@@ -84,6 +84,14 @@ The dashboard helps answer questions such as:
 
 ---
 
+## Screenshot
+
+<img width="1310" height="729" alt="image" src="https://github.com/user-attachments/assets/8e653919-677a-43ee-857d-c826a832c559" />
+
+<img width="1310" height="727" alt="image" src="https://github.com/user-attachments/assets/0070e83d-650c-4dde-9658-34036f61df64" />
+
+<img width="1311" height="727" alt="image" src="https://github.com/user-attachments/assets/667d2cba-30c5-42ad-b2b4-d30fa69231bc" />
+
 ## 🧮 DAX Highlights
 
 - Centralized `_Measures` table
